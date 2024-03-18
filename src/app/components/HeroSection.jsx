@@ -19,6 +19,8 @@ const HeroSection = () => {
                 1000,
                 "Web Developer",
                 1000,
+                "MERN Stack Developer",
+                1000,
                 "NextJs Frontend Developer",
                 1000,
                 "ReactJs Frontend Developer",
